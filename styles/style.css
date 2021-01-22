@@ -208,8 +208,8 @@ nav ul {
 }
 
 #clock-arrow {
-  -webkit-animation: clock 0.5s infinite linear;
-          animation: clock 0.5s infinite linear;
+  -webkit-animation: clock 1.5s infinite linear;
+          animation: clock 1.5s infinite linear;
   transform-box: fill-box;
   -webkit-transform-origin: bottom center;
           transform-origin: bottom center;
